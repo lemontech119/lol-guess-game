@@ -1,0 +1,4664 @@
+{
+  "version": "16.21.1",
+  "champions": [
+    {
+      "id": "Aatrox",
+      "name": "아트록스",
+      "nameEn": "Aatrox",
+      "title": "다르킨의 검",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aatrox.png",
+      "releaseDate": "2013-06-13",
+      "releasePatch": "V3.8",
+      "region": "무소속",
+      "species": "다르킨",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "피의 샘",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Ahri",
+      "name": "아리",
+      "nameEn": "Ahri",
+      "title": "구미호",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ahri.png",
+      "releaseDate": "2011-12-14",
+      "releasePatch": "V1.0.0.131",
+      "region": "아이오니아",
+      "species": "바스타야",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 21,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "암살자"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Akali",
+      "name": "아칼리",
+      "nameEn": "Akali",
+      "title": "섬기는 이 없는 암살자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akali.png",
+      "releaseDate": "2010-05-11",
+      "releasePatch": "V1.0.0.85",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "기력",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 22,
+      "positions": [
+        "탑",
+        "미드"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Akshan",
+      "name": "아크샨",
+      "nameEn": "Akshan",
+      "title": "떠도는 감시자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akshan.png",
+      "releaseDate": "2021-07-22",
+      "releasePatch": "V11.15",
+      "region": "슈리마",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 4,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Alistar",
+      "name": "알리스타",
+      "nameEn": "Alistar",
+      "title": "미노타우로스",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Alistar.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "무소속",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Ambessa",
+      "name": "암베사",
+      "nameEn": "Ambessa",
+      "title": "전장의 우두머리",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ambessa.png",
+      "releaseDate": "2024-11-06",
+      "releasePatch": "V14.22",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "기력",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 2,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Amumu",
+      "name": "아무무",
+      "nameEn": "Amumu",
+      "title": "슬픈 미라",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Amumu.png",
+      "releaseDate": "2009-06-26",
+      "releasePatch": "June 26, 2009 Patch",
+      "region": "슈리마",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Anivia",
+      "name": "애니비아",
+      "nameEn": "Anivia",
+      "title": "얼음불사조",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Anivia.png",
+      "releaseDate": "2009-07-10",
+      "releasePatch": "July 10, 2009 Patch",
+      "region": "프렐요드",
+      "species": "정령 / 반신",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 600,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Annie",
+      "name": "애니",
+      "nameEn": "Annie",
+      "title": "어둠의 아이",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Annie.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 625,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 19,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Aphelios",
+      "name": "아펠리오스",
+      "nameEn": "Aphelios",
+      "title": "신념의 무기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aphelios.png",
+      "releaseDate": "2019-12-11",
+      "releasePatch": "V9.24",
+      "region": "타곤",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 7,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Ashe",
+      "name": "애쉬",
+      "nameEn": "Ashe",
+      "title": "서리 궁수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ashe.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 600,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 20,
+      "positions": [
+        "원딜",
+        "서포터"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "서포터"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "AurelionSol",
+      "name": "아우렐리온 솔",
+      "nameEn": "Aurelion Sol",
+      "title": "별의 창조자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/AurelionSol.png",
+      "releaseDate": "2016-03-24",
+      "releasePatch": "V6.6",
+      "region": "무소속",
+      "species": "천상체",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Aurora",
+      "name": "오로라",
+      "nameEn": "Aurora",
+      "title": "세계의 경계에 선 마녀",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aurora.png",
+      "releaseDate": "2024-07-17",
+      "releasePatch": "V14.14",
+      "region": "프렐요드",
+      "species": "바스타야",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 3,
+      "positions": [
+        "미드",
+        "탑"
+      ],
+      "roles": [
+        "마법사",
+        "암살자"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Azir",
+      "name": "아지르",
+      "nameEn": "Azir",
+      "title": "사막의 황제",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Azir.png",
+      "releaseDate": "2014-09-16",
+      "releasePatch": "V4.16",
+      "region": "슈리마",
+      "species": "승천자",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 7,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "원거리 딜러"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Bard",
+      "name": "바드",
+      "nameEn": "Bard",
+      "title": "영겁의 수호자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Bard.png",
+      "releaseDate": "2015-03-12",
+      "releasePatch": "V5.5",
+      "region": "무소속",
+      "species": "천상체",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Belveth",
+      "name": "벨베스",
+      "nameEn": "Bel'Veth",
+      "title": "공허의 여제",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Belveth.png",
+      "releaseDate": "2022-06-09",
+      "releasePatch": "V12.11",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "없음",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 4,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Blitzcrank",
+      "name": "블리츠크랭크",
+      "nameEn": "Blitzcrank",
+      "title": "거대 증기 골렘",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Blitzcrank.png",
+      "releaseDate": "2009-09-02",
+      "releasePatch": "V0.9.22.16",
+      "region": "자운",
+      "species": "골렘 / 기계",
+      "gender": "없음",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 18,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Brand",
+      "name": "브랜드",
+      "nameEn": "Brand",
+      "title": "타오르는 복수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Brand.png",
+      "releaseDate": "2011-04-12",
+      "releasePatch": "V1.0.0.115",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "정글",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Braum",
+      "name": "브라움",
+      "nameEn": "Braum",
+      "title": "프렐요드의 심장",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Braum.png",
+      "releaseDate": "2014-05-12",
+      "releasePatch": "V4.7",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Briar",
+      "name": "브라이어",
+      "nameEn": "Briar",
+      "title": "억눌린 허기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Briar.png",
+      "releaseDate": "2023-09-14",
+      "releasePatch": "V13.18",
+      "region": "녹서스",
+      "species": "골렘 / 기계",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "분노",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 3,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Caitlyn",
+      "name": "케이틀린",
+      "nameEn": "Caitlyn",
+      "title": "필트오버의 보안관",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Caitlyn.png",
+      "releaseDate": "2011-01-04",
+      "releasePatch": "V1.0.0.108",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 650,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 20,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Camille",
+      "name": "카밀",
+      "nameEn": "Camille",
+      "title": "강철의 그림자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Camille.png",
+      "releaseDate": "2016-12-07",
+      "releasePatch": "V6.24",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Cassiopeia",
+      "name": "카시오페아",
+      "nameEn": "Cassiopeia",
+      "title": "독사의 포옹",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Cassiopeia.png",
+      "releaseDate": "2010-12-14",
+      "releasePatch": "V1.0.0.107",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Chogath",
+      "name": "초가스",
+      "nameEn": "Cho'Gath",
+      "title": "공허의 공포",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Chogath.png",
+      "releaseDate": "2009-06-26",
+      "releasePatch": "June 26, 2009 Patch",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "없음",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Corki",
+      "name": "코르키",
+      "nameEn": "Corki",
+      "title": "대담한 폭격수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Corki.png",
+      "releaseDate": "2009-09-19",
+      "releasePatch": "V0.9.25.21",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 11,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Darius",
+      "name": "다리우스",
+      "nameEn": "Darius",
+      "title": "녹서스의 실력자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Darius.png",
+      "releaseDate": "2012-05-23",
+      "releasePatch": "V1.0.0.140",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 15,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Diana",
+      "name": "다이애나",
+      "nameEn": "Diana",
+      "title": "차가운 달의 분노",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Diana.png",
+      "releaseDate": "2012-08-07",
+      "releasePatch": "V1.0.0.144",
+      "region": "타곤",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 16,
+      "positions": [
+        "정글",
+        "미드"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "DrMundo",
+      "name": "문도 박사",
+      "nameEn": "Dr. Mundo",
+      "title": "자운의 광인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/DrMundo.png",
+      "releaseDate": "2009-09-02",
+      "releasePatch": "V0.9.22.16",
+      "region": "자운",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "없음",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Draven",
+      "name": "드레이븐",
+      "nameEn": "Draven",
+      "title": "화려한 처형자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Draven.png",
+      "releaseDate": "2012-06-06",
+      "releasePatch": "V1.0.0.140b",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Ekko",
+      "name": "에코",
+      "nameEn": "Ekko",
+      "title": "시간을 달리는 소년",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ekko.png",
+      "releaseDate": "2015-05-29",
+      "releasePatch": "V5.10",
+      "region": "자운",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "정글",
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Elise",
+      "name": "엘리스",
+      "nameEn": "Elise",
+      "title": "거미 여왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Elise.png",
+      "releaseDate": "2012-10-26",
+      "releasePatch": "V1.0.0.150",
+      "region": "그림자 군도",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Evelynn",
+      "name": "이블린",
+      "nameEn": "Evelynn",
+      "title": "고통스런 포옹",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Evelynn.png",
+      "releaseDate": "2009-05-01",
+      "releasePatch": "May 1, 2009 Patch",
+      "region": "무소속",
+      "species": "악마",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Ezreal",
+      "name": "이즈리얼",
+      "nameEn": "Ezreal",
+      "title": "무모한 탐험가",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ezreal.png",
+      "releaseDate": "2010-03-16",
+      "releasePatch": "V1.0.0.79",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 22,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Fiddlesticks",
+      "name": "피들스틱",
+      "nameEn": "Fiddlesticks",
+      "title": "오래된 공포",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiddlesticks.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "무소속",
+      "species": "악마",
+      "gender": "없음",
+      "rangeType": "원거리",
+      "attackRange": 480,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Fiora",
+      "name": "피오라",
+      "nameEn": "Fiora",
+      "title": "결투의 대가",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiora.png",
+      "releaseDate": "2012-02-29",
+      "releasePatch": "V1.0.0.135",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Fizz",
+      "name": "피즈",
+      "nameEn": "Fizz",
+      "title": "대양의 말썽꾸러기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fizz.png",
+      "releaseDate": "2011-11-15",
+      "releasePatch": "V1.0.0.129",
+      "region": "무소속",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "전사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Galio",
+      "name": "갈리오",
+      "nameEn": "Galio",
+      "title": "위대한 석상",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Galio.png",
+      "releaseDate": "2010-08-10",
+      "releasePatch": "V1.0.0.98",
+      "region": "데마시아",
+      "species": "골렘 / 기계",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 11,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "탱커",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Gangplank",
+      "name": "갱플랭크",
+      "nameEn": "Gangplank",
+      "title": "바다의 무법자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gangplank.png",
+      "releaseDate": "2009-08-19",
+      "releasePatch": "V0.9.22.15",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Garen",
+      "name": "가렌",
+      "nameEn": "Garen",
+      "title": "데마시아의 힘",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Garen.png",
+      "releaseDate": "2010-04-27",
+      "releasePatch": "V1.0.0.83",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "없음",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Gnar",
+      "name": "나르",
+      "nameEn": "Gnar",
+      "title": "잃어버린 고리",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gnar.png",
+      "releaseDate": "2014-08-14",
+      "releasePatch": "V4.18",
+      "region": "프렐요드",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 175,
+      "resource": "분노",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 10,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Gragas",
+      "name": "그라가스",
+      "nameEn": "Gragas",
+      "title": "술취한 난동꾼",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gragas.png",
+      "releaseDate": "2010-02-02",
+      "releasePatch": "V1.0.0.72",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 14,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Graves",
+      "name": "그레이브즈",
+      "nameEn": "Graves",
+      "title": "무법자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Graves.png",
+      "releaseDate": "2011-10-19",
+      "releasePatch": "V1.0.0.127",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 425,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Gwen",
+      "name": "그웬",
+      "nameEn": "Gwen",
+      "title": "신성한 재봉사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gwen.png",
+      "releaseDate": "2021-04-15",
+      "releasePatch": "V11.8",
+      "region": "그림자 군도",
+      "species": "기타",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 6,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Hecarim",
+      "name": "헤카림",
+      "nameEn": "Hecarim",
+      "title": "전쟁의 전조",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hecarim.png",
+      "releaseDate": "2012-04-18",
+      "releasePatch": "V1.0.0.138",
+      "region": "그림자 군도",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Heimerdinger",
+      "name": "하이머딩거",
+      "nameEn": "Heimerdinger",
+      "title": "위대한 발명가",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Heimerdinger.png",
+      "releaseDate": "2009-10-10",
+      "releasePatch": "V0.9.25.34",
+      "region": "필트오버",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Hwei",
+      "name": "흐웨이",
+      "nameEn": "Hwei",
+      "title": "몽상가",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hwei.png",
+      "releaseDate": "2023-12-05",
+      "releasePatch": "V13.24",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 3,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Illaoi",
+      "name": "일라오이",
+      "nameEn": "Illaoi",
+      "title": "크라켄의 여사제",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Illaoi.png",
+      "releaseDate": "2015-11-24",
+      "releasePatch": "V5.23",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Irelia",
+      "name": "이렐리아",
+      "nameEn": "Irelia",
+      "title": "칼날 무희",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Irelia.png",
+      "releaseDate": "2010-11-16",
+      "releasePatch": "V1.0.0.105",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 200,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "탑",
+        "미드"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Ivern",
+      "name": "아이번",
+      "nameEn": "Ivern",
+      "title": "자연의 아버지",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ivern.png",
+      "releaseDate": "2016-10-05",
+      "releasePatch": "V6.20",
+      "region": "아이오니아",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 475,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Janna",
+      "name": "잔나",
+      "nameEn": "Janna",
+      "title": "폭풍의 분노",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Janna.png",
+      "releaseDate": "2009-09-02",
+      "releasePatch": "V0.9.22.16",
+      "region": "자운",
+      "species": "정령 / 반신",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 17,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "JarvanIV",
+      "name": "자르반 4세",
+      "nameEn": "Jarvan IV",
+      "title": "데마시아의 귀감",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/JarvanIV.png",
+      "releaseDate": "2011-03-01",
+      "releasePatch": "V1.0.0.112",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 15,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Jax",
+      "name": "잭스",
+      "nameEn": "Jax",
+      "title": "무기의 달인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jax.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "무소속",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 17,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Jayce",
+      "name": "제이스",
+      "nameEn": "Jayce",
+      "title": "미래의 수호자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jayce.png",
+      "releaseDate": "2012-07-07",
+      "releasePatch": "V1.0.0.142",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 12,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Jhin",
+      "name": "진",
+      "nameEn": "Jhin",
+      "title": "잔혹극의 거장",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jhin.png",
+      "releaseDate": "2016-02-01",
+      "releasePatch": "V6.2",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Jinx",
+      "name": "징크스",
+      "nameEn": "Jinx",
+      "title": "난폭한 말괄량이",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jinx.png",
+      "releaseDate": "2013-10-10",
+      "releasePatch": "V3.12",
+      "region": "자운",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 15,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "KSante",
+      "name": "크산테",
+      "nameEn": "K'Sante",
+      "title": "나주마의 긍지",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KSante.png",
+      "releaseDate": "2022-11-02",
+      "releasePatch": "V12.21",
+      "region": "슈리마",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 4,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Kaisa",
+      "name": "카이사",
+      "nameEn": "Kai'Sa",
+      "title": "공허의 딸",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kaisa.png",
+      "releaseDate": "2018-03-07",
+      "releasePatch": "V8.5",
+      "region": "공허",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 15,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Kalista",
+      "name": "칼리스타",
+      "nameEn": "Kalista",
+      "title": "복수의 화신",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kalista.png",
+      "releaseDate": "2014-11-20",
+      "releasePatch": "V4.20",
+      "region": "그림자 군도",
+      "species": "언데드",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Karma",
+      "name": "카르마",
+      "nameEn": "Karma",
+      "title": "깨우친 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karma.png",
+      "releaseDate": "2011-02-01",
+      "releasePatch": "V1.0.0.110",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 15,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Karthus",
+      "name": "카서스",
+      "nameEn": "Karthus",
+      "title": "죽음을 노래하는 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karthus.png",
+      "releaseDate": "2009-06-12",
+      "releasePatch": "June 12, 2009 Patch",
+      "region": "그림자 군도",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 450,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 10,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Kassadin",
+      "name": "카사딘",
+      "nameEn": "Kassadin",
+      "title": "공허의 방랑자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kassadin.png",
+      "releaseDate": "2009-08-07",
+      "releasePatch": "V0.9.22.7",
+      "region": "공허",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Katarina",
+      "name": "카타리나",
+      "nameEn": "Katarina",
+      "title": "사악한 칼날",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Katarina.png",
+      "releaseDate": "2009-09-19",
+      "releasePatch": "V0.9.25.21",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "없음",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 19,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Kayle",
+      "name": "케일",
+      "nameEn": "Kayle",
+      "title": "정의로운 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayle.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 18,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Kayn",
+      "name": "케인",
+      "nameEn": "Kayn",
+      "title": "그림자 사신",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayn.png",
+      "releaseDate": "2017-07-12",
+      "releasePatch": "V7.14",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Kennen",
+      "name": "케넨",
+      "nameEn": "Kennen",
+      "title": "폭풍의 심장",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kennen.png",
+      "releaseDate": "2010-04-08",
+      "releasePatch": "V1.0.0.82",
+      "region": "아이오니아",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "기력",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 10,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Khazix",
+      "name": "카직스",
+      "nameEn": "Kha'Zix",
+      "title": "공허의 약탈자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Khazix.png",
+      "releaseDate": "2012-09-27",
+      "releasePatch": "V1.0.0.148",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Kindred",
+      "name": "킨드레드",
+      "nameEn": "Kindred",
+      "title": "영겁의 사냥꾼",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kindred.png",
+      "releaseDate": "2015-10-14",
+      "releasePatch": "V5.20",
+      "region": "무소속",
+      "species": "정령 / 반신",
+      "gender": "없음",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Kled",
+      "name": "클레드",
+      "nameEn": "Kled",
+      "title": "망나니 기사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kled.png",
+      "releaseDate": "2016-08-10",
+      "releasePatch": "V6.16",
+      "region": "녹서스",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "용기",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 4,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "KogMaw",
+      "name": "코그모",
+      "nameEn": "Kog'Maw",
+      "title": "심연의 아귀",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KogMaw.png",
+      "releaseDate": "2010-06-24",
+      "releasePatch": "V1.0.0.94",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Leblanc",
+      "name": "르블랑",
+      "nameEn": "LeBlanc",
+      "title": "환술사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leblanc.png",
+      "releaseDate": "2010-11-02",
+      "releasePatch": "V1.0.0.104",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "LeeSin",
+      "name": "리 신",
+      "nameEn": "Lee Sin",
+      "title": "눈먼 수도승",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/LeeSin.png",
+      "releaseDate": "2011-04-01",
+      "releasePatch": "V1.0.0.114",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "기력",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 19,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Leona",
+      "name": "레오나",
+      "nameEn": "Leona",
+      "title": "여명의 빛",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leona.png",
+      "releaseDate": "2011-07-13",
+      "releasePatch": "V1.0.0.121",
+      "region": "타곤",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 18,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Lillia",
+      "name": "릴리아",
+      "nameEn": "Lillia",
+      "title": "수줍은 꽃",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lillia.png",
+      "releaseDate": "2020-07-22",
+      "releasePatch": "V10.15",
+      "region": "아이오니아",
+      "species": "정령 / 반신",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 325,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Lissandra",
+      "name": "리산드라",
+      "nameEn": "Lissandra",
+      "title": "얼음 마녀",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lissandra.png",
+      "releaseDate": "2013-04-30",
+      "releasePatch": "V3.6",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Locke",
+      "name": "로크",
+      "nameEn": "Locke",
+      "title": "잿빛 퇴마사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Locke.png",
+      "releaseDate": "2026-06-24",
+      "releasePatch": "V26.13",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 1,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Lucian",
+      "name": "루시안",
+      "nameEn": "Lucian",
+      "title": "정화의 사도",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lucian.png",
+      "releaseDate": "2013-08-22",
+      "releasePatch": "V3.10a",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Lulu",
+      "name": "룰루",
+      "nameEn": "Lulu",
+      "title": "요정 마법사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lulu.png",
+      "releaseDate": "2012-03-20",
+      "releasePatch": "V1.0.0.136",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 14,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Lux",
+      "name": "럭스",
+      "nameEn": "Lux",
+      "title": "광명의 소녀",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lux.png",
+      "releaseDate": "2010-10-19",
+      "releasePatch": "V1.0.0.103",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 22,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Malphite",
+      "name": "말파이트",
+      "nameEn": "Malphite",
+      "title": "거석의 파편",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malphite.png",
+      "releaseDate": "2009-09-02",
+      "releasePatch": "V0.9.22.16",
+      "region": "이쉬탈",
+      "species": "골렘 / 기계",
+      "gender": "없음",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Malzahar",
+      "name": "말자하",
+      "nameEn": "Malzahar",
+      "title": "공허의 예언자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malzahar.png",
+      "releaseDate": "2010-06-01",
+      "releasePatch": "V1.0.0.86",
+      "region": "공허",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Maokai",
+      "name": "마오카이",
+      "nameEn": "Maokai",
+      "title": "뒤틀린 나무 정령",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Maokai.png",
+      "releaseDate": "2011-02-16",
+      "releasePatch": "V1.0.0.111",
+      "region": "그림자 군도",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "MasterYi",
+      "name": "마스터 이",
+      "nameEn": "Master Yi",
+      "title": "우주 검사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MasterYi.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 18,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Mel",
+      "name": "멜",
+      "nameEn": "Mel",
+      "title": "영혼의 반향",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mel.png",
+      "releaseDate": "2025-01-23",
+      "releasePatch": "V25.02",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 3,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Milio",
+      "name": "밀리오",
+      "nameEn": "Milio",
+      "title": "온화한 불꽃",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Milio.png",
+      "releaseDate": "2023-03-23",
+      "releasePatch": "V13.6",
+      "region": "이쉬탈",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 3,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "MissFortune",
+      "name": "미스 포츈",
+      "nameEn": "Miss Fortune",
+      "title": "현상금 사냥꾼",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MissFortune.png",
+      "releaseDate": "2010-09-08",
+      "releasePatch": "V1.0.0.100",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 23,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "MonkeyKing",
+      "name": "오공",
+      "nameEn": "Wukong",
+      "title": "원숭이 왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MonkeyKing.png",
+      "releaseDate": "2011-07-26",
+      "releasePatch": "V1.0.0.122",
+      "region": "아이오니아",
+      "species": "바스타야",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Mordekaiser",
+      "name": "모데카이저",
+      "nameEn": "Mordekaiser",
+      "title": "강철의 망령",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mordekaiser.png",
+      "releaseDate": "2010-02-24",
+      "releasePatch": "V1.0.0.75",
+      "region": "녹서스",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "보호막",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Morgana",
+      "name": "모르가나",
+      "nameEn": "Morgana",
+      "title": "타락한 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Morgana.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 450,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 17,
+      "positions": [
+        "서포터",
+        "미드"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Naafiri",
+      "name": "나피리",
+      "nameEn": "Naafiri",
+      "title": "백 번 무는 사냥개",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Naafiri.png",
+      "releaseDate": "2023-07-19",
+      "releasePatch": "V13.14",
+      "region": "슈리마",
+      "species": "다르킨",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 4,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Nami",
+      "name": "나미",
+      "nameEn": "Nami",
+      "title": "파도 소환사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nami.png",
+      "releaseDate": "2012-12-07",
+      "releasePatch": "V1.0.0.152",
+      "region": "무소속",
+      "species": "바스타야",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 14,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Nasus",
+      "name": "나서스",
+      "nameEn": "Nasus",
+      "title": "사막의 관리자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nasus.png",
+      "releaseDate": "2009-10-01",
+      "releasePatch": "V0.9.25.24",
+      "region": "슈리마",
+      "species": "승천자",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Nautilus",
+      "name": "노틸러스",
+      "nameEn": "Nautilus",
+      "title": "심해의 타이탄",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nautilus.png",
+      "releaseDate": "2012-02-14",
+      "releasePatch": "V1.0.0.134",
+      "region": "빌지워터",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 11,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Neeko",
+      "name": "니코",
+      "nameEn": "Neeko",
+      "title": "알쏭달쏭 카멜레온",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Neeko.png",
+      "releaseDate": "2018-12-05",
+      "releasePatch": "V8.24",
+      "region": "이쉬탈",
+      "species": "바스타야",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Nidalee",
+      "name": "니달리",
+      "nameEn": "Nidalee",
+      "title": "야성의 사냥꾼",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nidalee.png",
+      "releaseDate": "2009-12-17",
+      "releasePatch": "V1.0.0.63",
+      "region": "이쉬탈",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Nilah",
+      "name": "닐라",
+      "nameEn": "Nilah",
+      "title": "해방된 기쁨",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nilah.png",
+      "releaseDate": "2022-07-13",
+      "releasePatch": "V12.13",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 225,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 3,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Nocturne",
+      "name": "녹턴",
+      "nameEn": "Nocturne",
+      "title": "영원한 악몽",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nocturne.png",
+      "releaseDate": "2011-03-15",
+      "releasePatch": "V1.0.0.113",
+      "region": "무소속",
+      "species": "악마",
+      "gender": "없음",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 10,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Nunu",
+      "name": "누누와 윌럼프",
+      "nameEn": "Nunu & Willump",
+      "title": "소년과 설인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nunu.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "탱커",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Olaf",
+      "name": "올라프",
+      "nameEn": "Olaf",
+      "title": "광전사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Olaf.png",
+      "releaseDate": "2010-06-09",
+      "releasePatch": "V1.0.0.87",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Orianna",
+      "name": "오리아나",
+      "nameEn": "Orianna",
+      "title": "시계태엽 소녀",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Orianna.png",
+      "releaseDate": "2011-06-01",
+      "releasePatch": "V1.0.0.119",
+      "region": "필트오버",
+      "species": "골렘 / 기계",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Ornn",
+      "name": "오른",
+      "nameEn": "Ornn",
+      "title": "거산의 화염",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ornn.png",
+      "releaseDate": "2017-08-23",
+      "releasePatch": "V7.17",
+      "region": "프렐요드",
+      "species": "정령 / 반신",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 5,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Pantheon",
+      "name": "판테온",
+      "nameEn": "Pantheon",
+      "title": "불굴의 창",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pantheon.png",
+      "releaseDate": "2010-02-02",
+      "releasePatch": "V1.0.0.72",
+      "region": "타곤",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "탑",
+        "서포터"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Poppy",
+      "name": "뽀삐",
+      "nameEn": "Poppy",
+      "title": "망치의 수호자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Poppy.png",
+      "releaseDate": "2010-01-13",
+      "releasePatch": "V1.0.0.70",
+      "region": "데마시아",
+      "species": "요들",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Pyke",
+      "name": "파이크",
+      "nameEn": "Pyke",
+      "title": "핏빛 항구의 학살자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pyke.png",
+      "releaseDate": "2018-05-31",
+      "releasePatch": "V8.11",
+      "region": "빌지워터",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Qiyana",
+      "name": "키아나",
+      "nameEn": "Qiyana",
+      "title": "원소의 여왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Qiyana.png",
+      "releaseDate": "2019-06-28",
+      "releasePatch": "V9.13",
+      "region": "이쉬탈",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 10,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Quinn",
+      "name": "퀸",
+      "nameEn": "Quinn",
+      "title": "데마시아의 날개",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Quinn.png",
+      "releaseDate": "2013-03-01",
+      "releasePatch": "V3.03",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 7,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Rakan",
+      "name": "라칸",
+      "nameEn": "Rakan",
+      "title": "매혹하는 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rakan.png",
+      "releaseDate": "2017-04-19",
+      "releasePatch": "V7.8",
+      "region": "아이오니아",
+      "species": "바스타야",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 300,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Rammus",
+      "name": "람머스",
+      "nameEn": "Rammus",
+      "title": "중무장 아르마딜로",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rammus.png",
+      "releaseDate": "2009-07-10",
+      "releasePatch": "July 10, 2009 Patch",
+      "region": "슈리마",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 12,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "RekSai",
+      "name": "렉사이",
+      "nameEn": "Rek'Sai",
+      "title": "공허의 복병",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/RekSai.png",
+      "releaseDate": "2014-12-11",
+      "releasePatch": "V4.21",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "분노",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 5,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Rell",
+      "name": "렐",
+      "nameEn": "Rell",
+      "title": "철의 여인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rell.png",
+      "releaseDate": "2020-12-10",
+      "releasePatch": "V10.25",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 4,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Renata",
+      "name": "레나타 글라스크",
+      "nameEn": "Renata Glasc",
+      "title": "화공 남작",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renata.png",
+      "releaseDate": "2022-02-17",
+      "releasePatch": "V12.4",
+      "region": "자운",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 5,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Renekton",
+      "name": "레넥톤",
+      "nameEn": "Renekton",
+      "title": "사막의 도살자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renekton.png",
+      "releaseDate": "2011-01-18",
+      "releasePatch": "V1.0.0.109",
+      "region": "슈리마",
+      "species": "승천자",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "분노",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 15,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Rengar",
+      "name": "렝가",
+      "nameEn": "Rengar",
+      "title": "추적하는 사자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rengar.png",
+      "releaseDate": "2012-08-21",
+      "releasePatch": "V1.0.0.145",
+      "region": "이쉬탈",
+      "species": "바스타야",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "흉포",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Riven",
+      "name": "리븐",
+      "nameEn": "Riven",
+      "title": "추방자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Riven.png",
+      "releaseDate": "2011-09-14",
+      "releasePatch": "V1.0.0.125",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "없음",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 17,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Rumble",
+      "name": "럼블",
+      "nameEn": "Rumble",
+      "title": "기계 악동",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rumble.png",
+      "releaseDate": "2011-04-26",
+      "releasePatch": "V1.0.0.116",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "열기",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Ryze",
+      "name": "라이즈",
+      "nameEn": "Ryze",
+      "title": "룬 마법사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ryze.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Samira",
+      "name": "사미라",
+      "nameEn": "Samira",
+      "title": "사막의 장미",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Samira.png",
+      "releaseDate": "2020-09-21",
+      "releasePatch": "V10.19",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Sejuani",
+      "name": "세주아니",
+      "nameEn": "Sejuani",
+      "title": "혹한의 분노",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sejuani.png",
+      "releaseDate": "2012-01-17",
+      "releasePatch": "V1.0.0.132",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "탱커"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Senna",
+      "name": "세나",
+      "nameEn": "Senna",
+      "title": "구원자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Senna.png",
+      "releaseDate": "2019-11-10",
+      "releasePatch": "V9.22",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 600,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "원딜",
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Seraphine",
+      "name": "세라핀",
+      "nameEn": "Seraphine",
+      "title": "노래하는 별",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Seraphine.png",
+      "releaseDate": "2020-10-29",
+      "releasePatch": "V10.22",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "원딜",
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Sett",
+      "name": "세트",
+      "nameEn": "Sett",
+      "title": "우두머리",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sett.png",
+      "releaseDate": "2020-01-14",
+      "releasePatch": "V10.1",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "투지",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Shaco",
+      "name": "샤코",
+      "nameEn": "Shaco",
+      "title": "악마 어릿광대",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shaco.png",
+      "releaseDate": "2009-10-10",
+      "releasePatch": "V0.9.25.34",
+      "region": "무소속",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 16,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Shen",
+      "name": "쉔",
+      "nameEn": "Shen",
+      "title": "황혼의 눈",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shen.png",
+      "releaseDate": "2010-03-24",
+      "releasePatch": "V1.0.0.81",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "기력",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Shyvana",
+      "name": "쉬바나",
+      "nameEn": "Shyvana",
+      "title": "하프 드래곤",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shyvana.png",
+      "releaseDate": "2011-11-01",
+      "releasePatch": "V1.0.0.128",
+      "region": "데마시아",
+      "species": "용",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "분노",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Singed",
+      "name": "신지드",
+      "nameEn": "Singed",
+      "title": "미친 화학자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Singed.png",
+      "releaseDate": "2009-04-18",
+      "releasePatch": "April 18, 2009 Patch",
+      "region": "자운",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Sion",
+      "name": "사이온",
+      "nameEn": "Sion",
+      "title": "언데드 학살병기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sion.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "녹서스",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 11,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Sivir",
+      "name": "시비르",
+      "nameEn": "Sivir",
+      "title": "전장의 여제",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sivir.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "슈리마",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 0,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 19,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Skarner",
+      "name": "스카너",
+      "nameEn": "Skarner",
+      "title": "태고의 군주",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Skarner.png",
+      "releaseDate": "2011-08-09",
+      "releasePatch": "V1.0.0.123",
+      "region": "이쉬탈",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "정글",
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Smolder",
+      "name": "스몰더",
+      "nameEn": "Smolder",
+      "title": "꼬마 불꽃용",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Smolder.png",
+      "releaseDate": "2024-01-31",
+      "releasePatch": "V14.2",
+      "region": "무소속",
+      "species": "용",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 2,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Sona",
+      "name": "소나",
+      "nameEn": "Sona",
+      "title": "현의 명인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sona.png",
+      "releaseDate": "2010-09-21",
+      "releasePatch": "V1.0.0.101",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Soraka",
+      "name": "소라카",
+      "nameEn": "Soraka",
+      "title": "별의 아이",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Soraka.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "타곤",
+      "species": "천상체",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 18,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Swain",
+      "name": "스웨인",
+      "nameEn": "Swain",
+      "title": "녹서스 대장군",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Swain.png",
+      "releaseDate": "2010-10-05",
+      "releasePatch": "V1.0.0.102",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 10,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Sylas",
+      "name": "사일러스",
+      "nameEn": "Sylas",
+      "title": "해방된 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sylas.png",
+      "releaseDate": "2019-01-25",
+      "releasePatch": "V9.2",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "암살자"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Syndra",
+      "name": "신드라",
+      "nameEn": "Syndra",
+      "title": "어둠의 여제",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Syndra.png",
+      "releaseDate": "2012-09-13",
+      "releasePatch": "V1.0.0.147",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "TahmKench",
+      "name": "탐 켄치",
+      "nameEn": "Tahm Kench",
+      "title": "강의 폭군",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TahmKench.png",
+      "releaseDate": "2015-07-09",
+      "releasePatch": "V5.13",
+      "region": "무소속",
+      "species": "악마",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 7,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "탱커",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Taliyah",
+      "name": "탈리야",
+      "nameEn": "Taliyah",
+      "title": "바위술사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taliyah.png",
+      "releaseDate": "2016-05-18",
+      "releasePatch": "V6.10",
+      "region": "슈리마",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "정글",
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Talon",
+      "name": "탈론",
+      "nameEn": "Talon",
+      "title": "검의 그림자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Talon.png",
+      "releaseDate": "2011-08-24",
+      "releasePatch": "V1.0.0.124",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Taric",
+      "name": "타릭",
+      "nameEn": "Taric",
+      "title": "발로란의 방패",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taric.png",
+      "releaseDate": "2009-08-19",
+      "releasePatch": "V0.9.22.15",
+      "region": "타곤",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 7,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Teemo",
+      "name": "티모",
+      "nameEn": "Teemo",
+      "title": "날쌘 정찰병",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Teemo.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 500,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 15,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Thresh",
+      "name": "쓰레쉬",
+      "nameEn": "Thresh",
+      "title": "지옥의 간수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Thresh.png",
+      "releaseDate": "2013-01-23",
+      "releasePatch": "V1.0.0.154",
+      "region": "그림자 군도",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 450,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 16,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Tristana",
+      "name": "트리스타나",
+      "nameEn": "Tristana",
+      "title": "요들 사수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tristana.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 18,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Trundle",
+      "name": "트런들",
+      "nameEn": "Trundle",
+      "title": "트롤 왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Trundle.png",
+      "releaseDate": "2010-12-01",
+      "releasePatch": "V1.0.0.106",
+      "region": "프렐요드",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Tryndamere",
+      "name": "트린다미어",
+      "nameEn": "Tryndamere",
+      "title": "야만전사 왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tryndamere.png",
+      "releaseDate": "2009-05-01",
+      "releasePatch": "May 1, 2009 Patch",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "분노",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 13,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "TwistedFate",
+      "name": "트위스티드 페이트",
+      "nameEn": "Twisted Fate",
+      "title": "카드의 달인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TwistedFate.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "빌지워터",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 16,
+      "positions": [
+        "미드",
+        "원딜"
+      ],
+      "roles": [
+        "마법사",
+        "원거리 딜러"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Twitch",
+      "name": "트위치",
+      "nameEn": "Twitch",
+      "title": "역병 쥐",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Twitch.png",
+      "releaseDate": "2009-05-01",
+      "releasePatch": "May 1, 2009 Patch",
+      "region": "자운",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Udyr",
+      "name": "우디르",
+      "nameEn": "Udyr",
+      "title": "정령 주술사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Udyr.png",
+      "releaseDate": "2009-12-02",
+      "releasePatch": "V1.0.0.61",
+      "region": "프렐요드",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 6,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Urgot",
+      "name": "우르곳",
+      "nameEn": "Urgot",
+      "title": "살상 병기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Urgot.png",
+      "releaseDate": "2010-08-24",
+      "releasePatch": "V1.0.0.99",
+      "region": "자운",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 350,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 8,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Varus",
+      "name": "바루스",
+      "nameEn": "Varus",
+      "title": "응징의 화살",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Varus.png",
+      "releaseDate": "2012-05-08",
+      "releasePatch": "V1.0.0.139",
+      "region": "아이오니아",
+      "species": "다르킨",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 575,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 15,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "마법사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Vayne",
+      "name": "베인",
+      "nameEn": "Vayne",
+      "title": "어둠 사냥꾼",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vayne.png",
+      "releaseDate": "2011-05-10",
+      "releasePatch": "V1.0.0.118",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 19,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Veigar",
+      "name": "베이가",
+      "nameEn": "Veigar",
+      "title": "악의 작은 지배자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Veigar.png",
+      "releaseDate": "2009-07-24",
+      "releasePatch": "V0.8.22.115",
+      "region": "밴들 시티",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 16,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Velkoz",
+      "name": "벨코즈",
+      "nameEn": "Vel'Koz",
+      "title": "공허의 눈",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Velkoz.png",
+      "releaseDate": "2014-02-27",
+      "releasePatch": "V4.3",
+      "region": "공허",
+      "species": "공허 생명체",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 7,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Vex",
+      "name": "벡스",
+      "nameEn": "Vex",
+      "title": "우울주의자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vex.png",
+      "releaseDate": "2021-09-23",
+      "releasePatch": "V11.19",
+      "region": "그림자 군도",
+      "species": "요들",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 4,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Vi",
+      "name": "바이",
+      "nameEn": "Vi",
+      "title": "필트오버의 집행자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vi.png",
+      "releaseDate": "2012-12-19",
+      "releasePatch": "V1.0.0.153",
+      "region": "필트오버",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 13,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Viego",
+      "name": "비에고",
+      "nameEn": "Viego",
+      "title": "몰락한 왕",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viego.png",
+      "releaseDate": "2021-01-21",
+      "releasePatch": "V11.2",
+      "region": "그림자 군도",
+      "species": "언데드",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 200,
+      "resource": "없음",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 7,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Viktor",
+      "name": "빅토르",
+      "nameEn": "Viktor",
+      "title": "아케인의 전령관",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viktor.png",
+      "releaseDate": "2011-12-29",
+      "releasePatch": "V1.0.0.131",
+      "region": "자운",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 8,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Vladimir",
+      "name": "블라디미르",
+      "nameEn": "Vladimir",
+      "title": "진홍빛 사신",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vladimir.png",
+      "releaseDate": "2010-07-27",
+      "releasePatch": "V1.0.0.97",
+      "region": "녹서스",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 450,
+      "resource": "핏빛 격노",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 14,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사",
+        "전사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Volibear",
+      "name": "볼리베어",
+      "nameEn": "Volibear",
+      "title": "무자비한 폭풍",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Volibear.png",
+      "releaseDate": "2011-11-29",
+      "releasePatch": "V1.0.0.130",
+      "region": "프렐요드",
+      "species": "정령 / 반신",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 150,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 10,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Warwick",
+      "name": "워윅",
+      "nameEn": "Warwick",
+      "title": "자운의 고삐 풀린 분노",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Warwick.png",
+      "releaseDate": "2009-02-21",
+      "releasePatch": "Alpha Week 2",
+      "region": "자운",
+      "species": "기타",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 16,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Xayah",
+      "name": "자야",
+      "nameEn": "Xayah",
+      "title": "저항하는 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xayah.png",
+      "releaseDate": "2017-04-19",
+      "releasePatch": "V7.8",
+      "region": "아이오니아",
+      "species": "바스타야",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 12,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Xerath",
+      "name": "제라스",
+      "nameEn": "Xerath",
+      "title": "초월한 마법사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xerath.png",
+      "releaseDate": "2011-10-05",
+      "releasePatch": "V1.0.0.126",
+      "region": "슈리마",
+      "species": "승천자",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 525,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "미드",
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "XinZhao",
+      "name": "신 짜오",
+      "nameEn": "Xin Zhao",
+      "title": "데마시아의 호위무사",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/XinZhao.png",
+      "releaseDate": "2010-07-13",
+      "releasePatch": "V1.0.0.96",
+      "region": "데마시아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 4,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Yasuo",
+      "name": "야스오",
+      "nameEn": "Yasuo",
+      "title": "용서받지 못한 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yasuo.png",
+      "releaseDate": "2013-12-13",
+      "releasePatch": "V3.15",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "기류",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 19,
+      "positions": [
+        "탑",
+        "미드",
+        "원딜"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Yone",
+      "name": "요네",
+      "nameEn": "Yone",
+      "title": "잊히지 못한 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yone.png",
+      "releaseDate": "2020-08-06",
+      "releasePatch": "V10.16",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "기류",
+      "ccCount": 2,
+      "hasShield": true,
+      "hasHeal": false,
+      "skinCount": 12,
+      "positions": [
+        "탑",
+        "미드"
+      ],
+      "roles": [
+        "전사",
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Yorick",
+      "name": "요릭",
+      "nameEn": "Yorick",
+      "title": "영혼의 길잡이",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yorick.png",
+      "releaseDate": "2011-06-22",
+      "releasePatch": "V1.0.0.120",
+      "region": "그림자 군도",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 9,
+      "positions": [
+        "탑"
+      ],
+      "roles": [
+        "전사",
+        "탱커"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Yunara",
+      "name": "유나라",
+      "nameEn": "Yunara",
+      "title": "꺾이지 않는 신념",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yunara.png",
+      "releaseDate": "2025-07-16",
+      "releasePatch": "V25.14",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 575,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 2,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Yuumi",
+      "name": "유미",
+      "nameEn": "Yuumi",
+      "title": "마법 고양이",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yuumi.png",
+      "releaseDate": "2019-05-14",
+      "releasePatch": "V9.10",
+      "region": "밴들 시티",
+      "species": "기타",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 425,
+      "resource": "마나",
+      "ccCount": 3,
+      "hasShield": true,
+      "hasHeal": true,
+      "skinCount": 10,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Zaahen",
+      "name": "자헨",
+      "nameEn": "Zaahen",
+      "title": "저물지 않는 자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zaahen.png",
+      "releaseDate": "2025-11-19",
+      "releasePatch": "V25.23",
+      "region": "무소속",
+      "species": "다르킨",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 1,
+      "positions": [
+        "탑",
+        "정글"
+      ],
+      "roles": [
+        "전사"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Zac",
+      "name": "자크",
+      "nameEn": "Zac",
+      "title": "비밀 병기",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zac.png",
+      "releaseDate": "2013-03-29",
+      "releasePatch": "V3.5",
+      "region": "자운",
+      "species": "골렘 / 기계",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 175,
+      "resource": "없음",
+      "ccCount": 3,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 7,
+      "positions": [
+        "정글"
+      ],
+      "roles": [
+        "탱커",
+        "전사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Zed",
+      "name": "제드",
+      "nameEn": "Zed",
+      "title": "그림자의 주인",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zed.png",
+      "releaseDate": "2012-11-13",
+      "releasePatch": "V1.0.0.151",
+      "region": "아이오니아",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "근거리",
+      "attackRange": 125,
+      "resource": "기력",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 14,
+      "positions": [
+        "정글",
+        "미드"
+      ],
+      "roles": [
+        "암살자"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Zeri",
+      "name": "제리",
+      "nameEn": "Zeri",
+      "title": "자운의 불꽃",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zeri.png",
+      "releaseDate": "2022-01-20",
+      "releasePatch": "V12.2",
+      "region": "자운",
+      "species": "인간",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 6,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "원거리 딜러"
+      ],
+      "damageType": "AD (물리)"
+    },
+    {
+      "id": "Ziggs",
+      "name": "직스",
+      "nameEn": "Ziggs",
+      "title": "마법공학 폭파병",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ziggs.png",
+      "releaseDate": "2012-02-01",
+      "releasePatch": "V1.0.0.133",
+      "region": "자운",
+      "species": "요들",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 12,
+      "positions": [
+        "원딜"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Zilean",
+      "name": "질리언",
+      "nameEn": "Zilean",
+      "title": "시간의 수호자",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zilean.png",
+      "releaseDate": "2009-04-18",
+      "releasePatch": "April 18, 2009 Patch",
+      "region": "무소속",
+      "species": "인간",
+      "gender": "남성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 8,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "서포터",
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Zoe",
+      "name": "조이",
+      "nameEn": "Zoe",
+      "title": "여명의 성위",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zoe.png",
+      "releaseDate": "2017-11-21",
+      "releasePatch": "V7.23",
+      "region": "타곤",
+      "species": "천상체",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 550,
+      "resource": "마나",
+      "ccCount": 1,
+      "hasShield": false,
+      "hasHeal": false,
+      "skinCount": 9,
+      "positions": [
+        "미드"
+      ],
+      "roles": [
+        "마법사"
+      ],
+      "damageType": "AP (마법)"
+    },
+    {
+      "id": "Zyra",
+      "name": "자이라",
+      "nameEn": "Zyra",
+      "title": "가시 덩굴의 복수",
+      "image": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zyra.png",
+      "releaseDate": "2012-07-24",
+      "releasePatch": "V1.0.0.143",
+      "region": "이쉬탈",
+      "species": "기타",
+      "gender": "여성",
+      "rangeType": "원거리",
+      "attackRange": 575,
+      "resource": "마나",
+      "ccCount": 2,
+      "hasShield": false,
+      "hasHeal": true,
+      "skinCount": 12,
+      "positions": [
+        "서포터"
+      ],
+      "roles": [
+        "마법사",
+        "서포터"
+      ],
+      "damageType": "AP (마법)"
+    }
+  ]
+}

@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 롤 챔피언 맞추기
 
-## Getting Started
+힌트를 골라 리그 오브 레전드 챔피언을 맞추는 게임입니다.
 
-First, run the development server:
+- 한 판에 랜덤 챔피언 10명 출제
+- 12가지 힌트 중 챔피언마다 최대 6개 공개
+- 챔피언당 정답 기회 1회, 마지막에 맞춘 개수 표시
+
+## 개발
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 챔피언 데이터 갱신
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+새 패치나 신규 챔피언이 나오면 아래 명령으로 `src/data/champions.json`을 다시 생성합니다.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run fetch-data
+```
 
-## Learn More
+| 항목 | 출처 |
+| --- | --- |
+| 이름, 칭호, 자원, 사거리, 스킨 수, 역할군, CC기 보유 스킬 수 | Riot Data Dragon |
+| 출시일 / 패치, 근거리·원거리, 주요 라인, 피해 유형, 성별(대명사) | League of Legends Wiki (CC BY-SA) |
+| 지역(소속) | Riot Universe |
+| 종족 | `scripts/species.json` (수동 분류) |
 
-To learn more about Next.js, take a look at the following resources:
+- 신규 챔피언은 `scripts/species.json`에 종족을 추가해야 합니다. 누락되면 스크립트가 경고를 출력합니다.
+- 자동 수집 값이 틀린 경우 `scripts/overrides.json`에 챔피언 ID별로 덮어쓸 값을 적습니다.
+- CC기 보유 스킬 수는 Q/W/E/R 툴팁의 CC 표기(`<status>` 태그)와 키워드로 자동 계산합니다.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 배포
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Vercel에 저장소를 연결하면 별도 설정 없이 배포됩니다.

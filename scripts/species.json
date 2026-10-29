@@ -1,0 +1,32 @@
+{
+  "인간": [
+    "Akali", "Akshan", "Ambessa", "Annie", "Aphelios", "Ashe", "Brand", "Braum", "Caitlyn", "Camille",
+    "Cassiopeia", "Darius", "Diana", "DrMundo", "Draven", "Ekko", "Elise", "Ezreal", "Fiora", "Gangplank",
+    "Garen", "Gragas", "Graves", "Hwei", "Illaoi", "Irelia", "JarvanIV", "Jayce", "Jhin", "Jinx",
+    "KSante", "Kaisa", "Karma", "Kassadin", "Katarina", "Kayle", "Kayn", "Leblanc", "LeeSin", "Leona",
+    "Lissandra", "Locke", "Lucian", "Lux", "Malzahar", "MasterYi", "Mel", "Milio", "MissFortune", "Morgana",
+    "Nidalee", "Nilah", "Nunu", "Olaf", "Pantheon", "Qiyana", "Quinn", "Rell", "Renata", "Riven",
+    "Ryze", "Samira", "Sejuani", "Senna", "Seraphine", "Sett", "Shen", "Singed", "Sivir", "Sona",
+    "Swain", "Sylas", "Syndra", "Taliyah", "Talon", "Taric", "Tryndamere", "TwistedFate", "Udyr", "Urgot",
+    "Vayne", "Vi", "Viktor", "Vladimir", "XinZhao", "Yasuo", "Yone", "Yorick", "Yunara", "Zed",
+    "Zeri", "Zilean"
+  ],
+  "요들": [
+    "Amumu", "Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", "Poppy", "Rumble",
+    "Teemo", "Tristana", "Veigar", "Vex", "Ziggs"
+  ],
+  "바스타야": ["Ahri", "Aurora", "MonkeyKing", "Nami", "Neeko", "Rakan", "Rengar", "Xayah"],
+  "공허 생명체": ["Belveth", "Chogath", "Khazix", "KogMaw", "RekSai", "Velkoz"],
+  "다르킨": ["Aatrox", "Naafiri", "Varus", "Zaahen"],
+  "승천자": ["Azir", "Nasus", "Renekton", "Xerath"],
+  "언데드": ["Hecarim", "Kalista", "Karthus", "Mordekaiser", "Nautilus", "Pyke", "Sion", "Thresh", "Viego"],
+  "천상체": ["AurelionSol", "Bard", "Soraka", "Zoe"],
+  "정령 / 반신": ["Anivia", "Janna", "Kindred", "Lillia", "Ornn", "Volibear"],
+  "용": ["Shyvana", "Smolder"],
+  "악마": ["Evelynn", "Fiddlesticks", "Nocturne", "TahmKench"],
+  "골렘 / 기계": ["Blitzcrank", "Briar", "Galio", "Malphite", "Orianna", "Zac"],
+  "기타": [
+    "Alistar", "Gwen", "Ivern", "Jax", "Maokai", "Rammus", "Shaco", "Skarner", "Trundle", "Twitch",
+    "Warwick", "Yuumi", "Zyra"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Aphelios": { "gender": "남성" },
+  "Aurora": { "gender": "여성" },
+  "Blitzcrank": { "gender": "없음" },
+  "Chogath": { "gender": "없음" },
+  "Evelynn": { "gender": "여성" },
+  "Fiddlesticks": { "gender": "없음" },
+  "Jinx": { "gender": "여성" },
+  "Kindred": { "gender": "없음" },
+  "Kled": { "gender": "남성" },
+  "Lucian": { "hasShield": false },
+  "Malphite": { "gender": "없음" },
+  "Nocturne": { "gender": "없음" },
+  "Nunu": { "gender": "남성" },
+  "TahmKench": { "gender": "남성" },
+  "Zyra": { "gender": "여성" }
+}
