@@ -179,6 +179,22 @@ async function main() {
   const version = versions[0];
   console.log(`Data Dragon ${version}`);
 
+  const loadTable = (file) => readFile(path.resolve(file), "utf8").then(JSON.parse);
+  const invert = (table) => {
+    const map = {};
+    for (const [label, ids] of Object.entries(table)) {
+      for (const id of ids) {
+        if (map[id]) console.warn(`중복 분류: ${id} (${map[id]}, ${label})`);
+        map[id] = label;
+      }
+    }
+    return map;
+  };
+  const [hairById, heightById] = await Promise.all([
+    loadTable("scripts/hair.json").then(invert),
+    loadTable("scripts/height.json").then(invert),
+  ]);
+
   const [ddKo, ddEn, wikiLua, universe, speciesTable, overrides] = await Promise.all([
     getJson(`https://ddragon.leagueoflegends.com/cdn/${version}/data/ko_KR/championFull.json`),
     getJson(`https://ddragon.leagueoflegends.com/cdn/${version}/data/en_US/champion.json`),
@@ -216,6 +232,8 @@ async function main() {
         releasePatch: w?.patch ?? null,
         region: FACTIONS[u?.["associated-faction-slug"]] ?? null,
         species: speciesById[id] ?? null,
+        hairColor: hairById[id] ?? null,
+        heightRange: heightById[id] ?? null,
         gender: genderFromPronoun(pronouns[w?.wikiName] ?? ""),
         rangeType: (w?.rangetype ?? (c.stats.attackrange > 300 ? "Ranged" : "Melee")) === "Ranged" ? "원거리" : "근거리",
         attackRange: c.stats.attackrange,

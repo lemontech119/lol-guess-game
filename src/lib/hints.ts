@@ -12,7 +12,9 @@ export type HintId =
   | "positions"
   | "roles"
   | "damage"
-  | "sustain";
+  | "sustain"
+  | "height"
+  | "hair";
 
 export type Hint = {
   id: HintId;
@@ -52,6 +54,12 @@ export const LEFT_HINTS: Hint[] = [
     getValue: (c) => `${c.rangeType} (기본 사거리 ${c.attackRange})`,
   },
   { id: "resource", label: "자원 종류", icon: "💧", getValue: (c) => c.resource },
+  {
+    id: "height",
+    label: "키 (대략)",
+    icon: "📏",
+    getValue: (c) => (c.heightRange ? `${c.heightRange}${c.heightRange.includes("~") ? " 사이" : ""}` : "알 수 없음"),
+  },
 ];
 
 export const RIGHT_HINTS: Hint[] = [
@@ -70,6 +78,7 @@ export const RIGHT_HINTS: Hint[] = [
   },
   { id: "roles", label: "역할군", icon: "⚔️", getValue: (c) => c.roles.join(", ") },
   { id: "damage", label: "피해 유형", icon: "💥", getValue: (c) => orUnknown(c.damageType) },
+  { id: "hair", label: "머리색 (기본 스킨)", icon: "💇", getValue: (c) => orUnknown(c.hairColor) },
   {
     id: "sustain",
     label: "쉴드 / 회복",

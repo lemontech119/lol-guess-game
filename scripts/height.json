@@ -1,0 +1,28 @@
+{
+  "140cm 이하": [
+    "Amumu", "Annie", "Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", "Nunu",
+    "Poppy", "Rumble", "Smolder", "Teemo", "Tristana", "Veigar", "Vex", "Yuumi", "Ziggs"
+  ],
+  "140~160cm": ["Aurora", "Gwen", "Jinx", "KogMaw", "Lillia", "Naafiri", "Neeko", "Zoe"],
+  "160~180cm": [
+    "Ahri", "Akali", "Aphelios", "Ashe", "Briar", "Caitlyn", "Camille", "Diana", "Ekko", "Elise",
+    "Evelynn", "Ezreal", "Fiora", "Hwei", "Irelia", "Janna", "Kaisa", "Karma", "Katarina", "Kayle",
+    "Kayn", "Kindred", "Leblanc", "LeeSin", "Lissandra", "Locke", "Lux", "MasterYi", "Mel", "Milio",
+    "MissFortune", "MonkeyKing", "Morgana", "Nami", "Nidalee", "Nilah", "Orianna", "Qiyana", "Quinn", "Rakan",
+    "Rammus", "Rell", "Renata", "Riven", "Ryze", "Samira", "Senna", "Seraphine", "Shaco", "Shen",
+    "Singed", "Sivir", "Sona", "Soraka", "Swain", "Sylas", "Syndra", "Taliyah", "Talon", "Twitch",
+    "Vayne", "Velkoz", "Vi", "Viktor", "Xayah", "Yone", "Yunara", "Zed", "Zeri", "Zilean", "Zyra"
+  ],
+  "180~200cm": [
+    "Akshan", "Ambessa", "Azir", "Bard", "Brand", "Braum", "Darius", "Draven", "Gangplank", "Garen",
+    "Gragas", "Graves", "Illaoi", "JarvanIV", "Jax", "Jayce", "Jhin", "KSante", "Kalista", "Karthus",
+    "Kassadin", "Khazix", "Leona", "Lucian", "Malzahar", "Nocturne", "Olaf", "Pantheon", "Pyke", "Rengar",
+    "Sejuani", "Sett", "Shyvana", "Taric", "TwistedFate", "Tryndamere", "Udyr", "Varus", "Viego", "Vladimir",
+    "Warwick", "XinZhao", "Yasuo", "Yorick", "Zac"
+  ],
+  "200cm 이상": [
+    "Aatrox", "Alistar", "Anivia", "AurelionSol", "Belveth", "Blitzcrank", "Cassiopeia", "Chogath", "DrMundo", "Fiddlesticks",
+    "Galio", "Hecarim", "Ivern", "Malphite", "Maokai", "Mordekaiser", "Nasus", "Nautilus", "Ornn", "RekSai",
+    "Renekton", "Sion", "Skarner", "TahmKench", "Thresh", "Trundle", "Urgot", "Volibear", "Xerath", "Zaahen"
+  ]
+}

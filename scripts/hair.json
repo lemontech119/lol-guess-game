@@ -1,0 +1,31 @@
+{
+  "금발": ["Ezreal", "Fiora", "Gwen", "Kayle", "Lux", "Quinn", "Zeri"],
+  "갈색": [
+    "Bard", "Caitlyn", "Corki", "Darius", "Gangplank", "Garen", "Gragas", "Jax", "JarvanIV", "Kled",
+    "Leona", "Locke", "Mel", "Nidalee", "Nunu", "Poppy", "Sejuani", "Sylas", "Taliyah", "Tristana",
+    "TwistedFate", "XinZhao", "Ziggs"
+  ],
+  "검정": [
+    "Ahri", "Akali", "Akshan", "Ambessa", "Annie", "Braum", "Cassiopeia", "Draven", "Elise", "Graves",
+    "Hwei", "Illaoi", "Irelia", "Jayce", "KSante", "Kaisa", "Kalista", "Karma", "Kayn", "Leblanc",
+    "Lucian", "MasterYi", "Milio", "Morgana", "Pyke", "Qiyana", "Renata", "Samira", "Senna", "Shen",
+    "Sivir", "Swain", "Talon", "Taric", "Tryndamere", "Udyr", "Varus", "Vayne", "Vex", "Viego",
+    "Viktor", "Vladimir", "Yasuo", "Zed"
+  ],
+  "은발/흰색": [
+    "Aphelios", "Ashe", "Aurora", "Camille", "Diana", "Heimerdinger", "Janna", "Lissandra", "Nilah", "Rell",
+    "Riven", "Ryze", "Sett", "Soraka", "Syndra", "Yone", "Yunara", "Zilean"
+  ],
+  "빨강": ["Briar", "Katarina", "MissFortune", "Olaf", "Rakan", "Rumble", "Shyvana", "Zyra"],
+  "파랑": ["Ekko", "Jinx", "Nami", "Sona"],
+  "분홍/보라": ["DrMundo", "Evelynn", "Lillia", "Lulu", "Seraphine", "Vi", "Xayah", "Zoe"],
+  "초록": ["Ivern", "Neeko"],
+  "없음/기타": [
+    "Aatrox", "Alistar", "Amumu", "Anivia", "AurelionSol", "Azir", "Belveth", "Blitzcrank", "Brand", "Chogath",
+    "Fiddlesticks", "Fizz", "Galio", "Gnar", "Hecarim", "Jhin", "Karthus", "Kassadin", "Kennen", "Khazix",
+    "Kindred", "KogMaw", "LeeSin", "Malphite", "Malzahar", "Maokai", "MonkeyKing", "Mordekaiser", "Naafiri", "Nasus",
+    "Nautilus", "Nocturne", "Orianna", "Ornn", "Pantheon", "Rammus", "RekSai", "Renekton", "Rengar", "Shaco",
+    "Singed", "Sion", "Skarner", "Smolder", "TahmKench", "Teemo", "Thresh", "Trundle", "Twitch", "Urgot",
+    "Veigar", "Velkoz", "Volibear", "Warwick", "Xerath", "Yorick", "Yuumi", "Zaahen", "Zac"
+  ]
+}
