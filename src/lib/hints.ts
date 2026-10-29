@@ -14,7 +14,9 @@ export type HintId =
   | "damage"
   | "sustain"
   | "height"
-  | "hair";
+  | "hair"
+  | "dash"
+  | "difficulty";
 
 export type Hint = {
   id: HintId;
@@ -55,6 +57,13 @@ export const LEFT_HINTS: Hint[] = [
   },
   { id: "resource", label: "자원 종류", icon: "💧", getValue: (c) => c.resource },
   {
+    id: "dash",
+    label: "돌진기 / 이동기",
+    icon: "💨",
+    getValue: (c) =>
+      c.dashSkills.length ? `${c.dashSkills.length}개 (${c.dashSkills.join(", ")})` : "없음",
+  },
+  {
     id: "height",
     label: "키 (대략)",
     icon: "📏",
@@ -78,6 +87,12 @@ export const RIGHT_HINTS: Hint[] = [
   },
   { id: "roles", label: "역할군", icon: "⚔️", getValue: (c) => c.roles.join(", ") },
   { id: "damage", label: "피해 유형", icon: "💥", getValue: (c) => orUnknown(c.damageType) },
+  {
+    id: "difficulty",
+    label: "Riot 공식 난이도",
+    icon: "🎯",
+    getValue: (c) => (c.difficulty > 0 ? `${c.difficulty} / 10` : "알 수 없음"),
+  },
   { id: "hair", label: "머리색 (기본 스킨)", icon: "💇", getValue: (c) => orUnknown(c.hairColor) },
   {
     id: "sustain",

@@ -17,6 +17,8 @@ export type Champion = {
   ccCount: number;
   hairColor: string | null;
   heightRange: string | null;
+  dashSkills: string[];
+  difficulty: number;
   hasShield: boolean;
   hasHeal: boolean;
   skinCount: number;
@@ -29,7 +31,7 @@ export const DATA_VERSION: string = data.version;
 export const CHAMPIONS: Champion[] = data.champions as Champion[];
 
 export const ROUND_SIZE = 10;
-export const MAX_HINTS = 7;
+export const MAX_HINTS = 8;
 
 export function pickRandomChampions(count: number): Champion[] {
   const pool = [...CHAMPIONS];

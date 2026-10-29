@@ -155,6 +155,17 @@ function countCcSkills(spells) {
   }).length;
 }
 
+// 돌진 / 점멸 / 도약 / 순간이동 등 위치를 이동시키는 스킬 (Q/W/E/R 키 배열)
+// 설명 문구 기반 추정이라 오차가 있음 → 틀리면 overrides.json 의 dashSkills 로 보정
+const DASH_KEYWORDS = /돌진|도약|뛰어|점멸|순간이동|순간 이동|질주|돌격|몸을 날|쇄도|달려|뒤로 물러|뛰어넘|급강하|위치로 이동|위치로 순간|파고들/;
+
+function dashSkills(spells) {
+  return spells
+    .map((s, i) => ({ key: "QWER"[i], text: stripHtml(`${s.description} ${s.tooltip}`) }))
+    .filter(({ text }) => DASH_KEYWORDS.test(text))
+    .map(({ key }) => key);
+}
+
 // 패시브 + Q/W/E/R 툴팁에서 쉴드(보호막) / 회복 보유 여부 판별
 function skillTexts(c) {
   return [...c.spells, c.passive].map((s) => `${s.tooltip ?? ""} ${s.description ?? ""}`);
@@ -239,6 +250,8 @@ async function main() {
         attackRange: c.stats.attackrange,
         resource: normalizeResource(c.partype),
         ccCount: countCcSkills(c.spells),
+        dashSkills: dashSkills(c.spells),
+        difficulty: c.info.difficulty,
         hasShield: hasShield(c),
         hasHeal: hasHeal(c),
         // 기본 스킨과 크로마(parentSkin 있음)는 제외
@@ -250,6 +263,7 @@ async function main() {
       };
 
       for (const [k, v] of Object.entries(champ)) {
+        if (k === "dashSkills") continue; // 빈 배열 = 돌진기 없음 (정상)
         if (v == null || (Array.isArray(v) && v.length === 0)) warnings.push(`${id}: ${k} 비어있음`);
       }
       return champ;

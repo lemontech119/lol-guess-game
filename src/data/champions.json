@@ -18,6 +18,10 @@
       "attackRange": 175,
       "resource": "피의 샘",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -46,6 +50,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 21,
@@ -75,6 +83,11 @@
       "attackRange": 125,
       "resource": "기력",
       "ccCount": 1,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 22,
@@ -104,6 +117,10 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 0,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 4,
@@ -133,6 +150,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -162,6 +183,11 @@
       "attackRange": 125,
       "resource": "기력",
       "ccCount": 2,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 10,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 2,
@@ -192,6 +218,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -221,6 +249,8 @@
       "attackRange": 600,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 10,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 13,
@@ -249,6 +279,8 @@
       "attackRange": 625,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 19,
@@ -278,6 +310,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 10,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 7,
@@ -306,6 +340,8 @@
       "attackRange": 600,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 20,
@@ -336,6 +372,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -364,6 +402,12 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "W",
+        "E",
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 3,
@@ -394,6 +438,11 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 9,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 7,
@@ -423,6 +472,8 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 8,
@@ -452,6 +503,12 @@
       "attackRange": 150,
       "resource": "없음",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "W",
+        "R"
+      ],
+      "difficulty": 10,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 4,
@@ -480,6 +537,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 18,
@@ -509,6 +568,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -539,6 +600,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -568,6 +633,11 @@
       "attackRange": 125,
       "resource": "분노",
       "ccCount": 4,
+      "dashSkills": [
+        "Q",
+        "W"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 3,
@@ -597,6 +667,10 @@
       "attackRange": 650,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 20,
@@ -625,6 +699,11 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 8,
@@ -654,6 +733,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 10,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -682,6 +763,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 11,
@@ -711,6 +794,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 11,
@@ -740,6 +825,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 2,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 15,
@@ -769,6 +858,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 16,
@@ -799,6 +892,8 @@
       "attackRange": 125,
       "resource": "없음",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 11,
@@ -829,6 +924,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -857,6 +954,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 13,
@@ -887,6 +988,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -916,6 +1021,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 10,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -945,6 +1054,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 22,
@@ -974,6 +1087,10 @@
       "attackRange": 480,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -1003,6 +1120,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -1032,6 +1153,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -1061,6 +1187,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 11,
@@ -1090,6 +1220,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -1118,6 +1250,8 @@
       "attackRange": 175,
       "resource": "없음",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 16,
@@ -1147,6 +1281,10 @@
       "attackRange": 175,
       "resource": "분노",
       "ccCount": 4,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 10,
@@ -1176,6 +1314,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 14,
@@ -1205,6 +1347,10 @@
       "attackRange": 425,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -1233,6 +1379,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 6,
@@ -1261,6 +1411,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -1290,6 +1444,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -1319,6 +1475,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 9,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 3,
@@ -1349,6 +1507,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -1378,6 +1540,10 @@
       "attackRange": 200,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -1408,6 +1574,10 @@
       "attackRange": 475,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 6,
@@ -1437,6 +1607,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 17,
@@ -1466,6 +1638,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 15,
@@ -1495,6 +1672,12 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q",
+        "W",
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 17,
@@ -1524,6 +1707,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 12,
@@ -1553,6 +1740,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -1582,6 +1771,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 15,
@@ -1610,6 +1801,12 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "W",
+        "E",
+        "R"
+      ],
+      "difficulty": 9,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 4,
@@ -1639,6 +1836,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 6,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 15,
@@ -1668,6 +1869,11 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -1696,6 +1902,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 15,
@@ -1726,6 +1934,8 @@
       "attackRange": 450,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 10,
@@ -1754,6 +1964,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 9,
@@ -1783,6 +1997,10 @@
       "attackRange": 125,
       "resource": "없음",
       "ccCount": 0,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 19,
@@ -1812,6 +2030,8 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 18,
@@ -1841,6 +2061,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "R"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 8,
@@ -1870,6 +2095,8 @@
       "attackRange": 550,
       "resource": "기력",
       "ccCount": 0,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 10,
@@ -1898,6 +2125,11 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 8,
@@ -1926,6 +2158,10 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -1954,6 +2190,11 @@
       "attackRange": 125,
       "resource": "용기",
       "ccCount": 3,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 4,
@@ -1982,6 +2223,8 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -2011,6 +2254,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -2040,6 +2287,11 @@
       "attackRange": 125,
       "resource": "기력",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "W"
+      ],
+      "difficulty": 6,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 19,
@@ -2069,6 +2321,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 18,
@@ -2098,6 +2354,8 @@
       "attackRange": 325,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -2127,6 +2385,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -2155,6 +2417,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 1,
@@ -2184,6 +2450,10 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -2213,6 +2483,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 14,
@@ -2242,6 +2514,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 22,
@@ -2272,6 +2546,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 2,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 14,
@@ -2301,6 +2579,8 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -2329,6 +2609,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 11,
@@ -2358,6 +2642,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 18,
@@ -2387,6 +2675,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 3,
@@ -2417,6 +2707,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 3,
@@ -2446,6 +2738,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 1,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 23,
@@ -2475,6 +2769,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -2504,6 +2803,8 @@
       "attackRange": 175,
       "resource": "보호막",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 13,
@@ -2533,6 +2834,8 @@
       "attackRange": 450,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 1,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 17,
@@ -2563,6 +2866,12 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q",
+        "E",
+        "R"
+      ],
+      "difficulty": 2,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 4,
@@ -2592,6 +2901,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 14,
@@ -2621,6 +2932,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 13,
@@ -2650,6 +2963,8 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 11,
@@ -2679,6 +2994,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -2709,6 +3028,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -2738,6 +3061,10 @@
       "attackRange": 225,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 10,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 3,
@@ -2767,6 +3094,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 10,
@@ -2796,6 +3127,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 12,
@@ -2825,6 +3158,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 3,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 11,
@@ -2854,6 +3189,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 13,
@@ -2883,6 +3222,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 5,
@@ -2911,6 +3255,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W",
+        "R"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -2941,6 +3290,11 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 13,
@@ -2971,6 +3325,11 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -3000,6 +3359,11 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 10,
@@ -3028,6 +3392,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 7,
@@ -3057,6 +3425,11 @@
       "attackRange": 300,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 12,
@@ -3085,6 +3458,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 12,
@@ -3113,6 +3490,11 @@
       "attackRange": 175,
       "resource": "분노",
       "ccCount": 1,
+      "dashSkills": [
+        "W",
+        "R"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 5,
@@ -3142,6 +3524,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 0,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 4,
@@ -3171,6 +3558,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 5,
@@ -3200,6 +3589,10 @@
       "attackRange": 125,
       "resource": "분노",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 3,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 15,
@@ -3229,6 +3622,10 @@
       "attackRange": 125,
       "resource": "흉포",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -3258,6 +3655,11 @@
       "attackRange": 125,
       "resource": "없음",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 17,
@@ -3287,6 +3689,8 @@
       "attackRange": 125,
       "resource": "열기",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 10,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 6,
@@ -3316,6 +3720,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -3344,6 +3752,11 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [
+        "Q",
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -3373,6 +3786,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -3401,6 +3818,8 @@
       "attackRange": 600,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 12,
@@ -3431,6 +3850,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 0,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 13,
@@ -3461,6 +3882,10 @@
       "attackRange": 125,
       "resource": "투지",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 2,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 11,
@@ -3490,6 +3915,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 16,
@@ -3518,6 +3947,11 @@
       "attackRange": 125,
       "resource": "기력",
       "ccCount": 2,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 13,
@@ -3546,6 +3980,10 @@
       "attackRange": 150,
       "resource": "분노",
       "ccCount": 2,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 8,
@@ -3575,6 +4013,8 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -3604,6 +4044,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 11,
@@ -3633,6 +4077,8 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 0,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 19,
@@ -3661,6 +4107,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 6,
@@ -3691,6 +4141,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 2,
@@ -3720,6 +4172,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 16,
@@ -3749,6 +4203,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 18,
@@ -3778,6 +4234,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 10,
@@ -3808,6 +4266,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W",
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -3837,6 +4300,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 13,
@@ -3865,6 +4330,8 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 7,
@@ -3894,6 +4361,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -3924,6 +4395,11 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q",
+        "E"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -3952,6 +4428,8 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 3,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 7,
@@ -3981,6 +4459,8 @@
       "attackRange": 500,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 15,
@@ -4010,6 +4490,10 @@
       "attackRange": 450,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 16,
@@ -4039,6 +4523,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 18,
@@ -4068,6 +4556,8 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 8,
@@ -4097,6 +4587,8 @@
       "attackRange": 175,
       "resource": "분노",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 13,
@@ -4126,6 +4618,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 9,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 16,
@@ -4156,6 +4652,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -4185,6 +4683,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 7,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 6,
@@ -4215,6 +4717,10 @@
       "attackRange": 350,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 8,
@@ -4244,6 +4750,8 @@
       "attackRange": 575,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 2,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 15,
@@ -4273,6 +4781,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 19,
@@ -4302,6 +4814,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 16,
@@ -4330,6 +4844,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 7,
@@ -4359,6 +4875,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 0,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 4,
@@ -4387,6 +4907,10 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q"
+      ],
+      "difficulty": 4,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 13,
@@ -4416,6 +4940,11 @@
       "attackRange": 200,
       "resource": "없음",
       "ccCount": 2,
+      "dashSkills": [
+        "W",
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 7,
@@ -4445,6 +4974,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [],
+      "difficulty": 9,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 8,
@@ -4473,6 +5004,8 @@
       "attackRange": 450,
       "resource": "핏빛 격노",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 14,
@@ -4502,6 +5035,10 @@
       "attackRange": 150,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 3,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 10,
@@ -4531,6 +5068,11 @@
       "attackRange": 125,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "R"
+      ],
+      "difficulty": 3,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 16,
@@ -4560,6 +5102,10 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 12,
@@ -4588,6 +5134,8 @@
       "attackRange": 525,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -4618,6 +5166,11 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 4,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 2,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
@@ -4647,6 +5200,11 @@
       "attackRange": 175,
       "resource": "기류",
       "ccCount": 2,
+      "dashSkills": [
+        "E",
+        "R"
+      ],
+      "difficulty": 10,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 19,
@@ -4678,6 +5236,11 @@
       "attackRange": 175,
       "resource": "기류",
       "ccCount": 2,
+      "dashSkills": [
+        "Q",
+        "R"
+      ],
+      "difficulty": 8,
       "hasShield": true,
       "hasHeal": false,
       "skinCount": 12,
@@ -4708,6 +5271,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 9,
@@ -4737,6 +5304,10 @@
       "attackRange": 575,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 2,
@@ -4765,6 +5336,10 @@
       "attackRange": 425,
       "resource": "마나",
       "ccCount": 3,
+      "dashSkills": [
+        "W"
+      ],
+      "difficulty": 2,
       "hasShield": true,
       "hasHeal": true,
       "skinCount": 10,
@@ -4794,6 +5369,10 @@
       "attackRange": 175,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 2,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 1,
@@ -4823,6 +5402,10 @@
       "attackRange": 175,
       "resource": "없음",
       "ccCount": 3,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 8,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 7,
@@ -4852,6 +5435,11 @@
       "attackRange": 125,
       "resource": "기력",
       "ccCount": 1,
+      "dashSkills": [
+        "W",
+        "R"
+      ],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 14,
@@ -4881,6 +5469,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "E"
+      ],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 6,
@@ -4909,6 +5501,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 4,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 12,
@@ -4937,6 +5531,8 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 6,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 8,
@@ -4966,6 +5562,10 @@
       "attackRange": 550,
       "resource": "마나",
       "ccCount": 1,
+      "dashSkills": [
+        "R"
+      ],
+      "difficulty": 5,
       "hasShield": false,
       "hasHeal": false,
       "skinCount": 9,
@@ -4994,6 +5594,8 @@
       "attackRange": 575,
       "resource": "마나",
       "ccCount": 2,
+      "dashSkills": [],
+      "difficulty": 7,
       "hasShield": false,
       "hasHeal": true,
       "skinCount": 12,
