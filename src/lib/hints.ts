@@ -1,4 +1,5 @@
 import type { Champion } from "./champions";
+import { lastChoseong } from "./match";
 
 export type HintId =
   | "release"
@@ -14,7 +15,7 @@ export type HintId =
   | "damage"
   | "sustain"
   | "height"
-  | "hair"
+  | "lastChoseong"
   | "dash"
   | "difficulty";
 
@@ -93,7 +94,12 @@ export const RIGHT_HINTS: Hint[] = [
     icon: "🎯",
     getValue: (c) => (c.difficulty > 0 ? `${c.difficulty} / 10` : "알 수 없음"),
   },
-  { id: "hair", label: "머리색 (기본 스킨)", icon: "💇", getValue: (c) => orUnknown(c.hairColor) },
+  {
+    id: "lastChoseong",
+    label: "이름 마지막 글자 초성",
+    icon: "🔤",
+    getValue: (c) => lastChoseong(c.name),
+  },
   {
     id: "sustain",
     label: "쉴드 / 회복",

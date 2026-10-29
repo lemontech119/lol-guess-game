@@ -15,6 +15,13 @@ function toChoseong(s: string): string {
     .join("");
 }
 
+/** 이름 마지막 글자의 초성 (한글이 아니면 그 글자 그대로). 쌍자음은 그대로 표기 */
+export function lastChoseong(name: string): string {
+  const chars = [...name.replace(/\s/g, "")];
+  const last = chars[chars.length - 1];
+  return last ? toChoseong(last) : "";
+}
+
 const isChoseongOnly = (s: string) => /^[ㄱ-ㅎ]+$/.test(s);
 
 export function isCorrectAnswer(input: string, champ: Champion): boolean {
